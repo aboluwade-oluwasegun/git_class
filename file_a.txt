@@ -1,1 +1,2 @@
 This is our Second Git class
+And now, the third class!
